@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp; Acerca de mi
 
 💡 &nbsp; Me gusta aprender cosas nuevas y me adapto a los retos\
-🎓 &nbsp; Conocimiento en  Mysql, PowerBI, excel avanzado, Gestion de riesgo(ciberseguridad), Phyton, C#(.Net)\
+🎓 &nbsp; Conocimiento en  Mysql, PowerBI, excel avanzado, Gestion de riesgo(ciberseguridad), Phyton, C#(.Net),Microsoft Junior QA/Software Tester Professional\
 🌱 &nbsp;Actualmente aprendiendo desarrollo web (html,css,javaScript, React), Ciberseguridad avanzado\
 ✍️ &nbsp; En mi tiempo libre disfruto ver series de intriga y editar videos\
 💬 &nbsp;Siempre estoy abierta colaborar en proyectos interesantes\
